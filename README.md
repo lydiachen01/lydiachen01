@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lydiachen01
-- 👀 I’m interested in Machine Learning and Game Design
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any interesting projects!
+- 👀 I’m interested in UX/UI
+- 💞️ I’m looking to collaborate on any full-stack projects!
 - 📫 How to reach me: lydia.chen@tufts.edu
 
 <!---
