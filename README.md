@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lydia!
 - 👀 I’m interested in UX and Game Design.
-- 💞️ I’m looking to collaborate on any full-stack projects!
 - 📫 How to reach me: lydia.chen@tufts.edu
 
 <!---
