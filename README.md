@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
     Hello! (o´▽`o)ﾉ
-    <br>I'm Lydia, a junior @Tufts
-    <br>An inspiring software engineer who enjoys making cool things! 
+    <br>I'm Lydia, an inspiring software engineer 
+    <br>who enjoys making cool things! 
     <br>📮 Reach Me: lydia.chen@tufts.edu
     <br><a href="https://www.linkedin.com/in/lydiaxchen/">linkedin</a> • <a href="https://drive.google.com/file/d/1bA7sGtLzLPg3tNwe4gpFBi4Cpz7uj4Mp/view?usp=sharing">resume</a>
     <br><br>
