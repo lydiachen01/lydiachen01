@@ -8,6 +8,8 @@
     <br><br>
     <br> <b>Recent Work:</b>
     <br>
-    <a href="https://github.com/CashewCapital20/Automated-Trades">ML project repo</a> in collaboration with Cashew Capital Fund, as part of the BTAI Fall 2024 AI Studio 
+    <a href="https://github.com/CashewCapital20/Automated-Trades">ML project repo</a> in collaboration with Cashew Capital Fund, as part of the BTAI Fall 2024 AI Studio <br>
+    <a href="https://github.com/LordofMankid/jlycat-hackathon">MyVoterInfo</a><br>
+    <a href="https://github.com/JumboCode/bi-women-quarterly">Bi-Women Quarterly</a>
   </samp>
 </p>
