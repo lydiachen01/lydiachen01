@@ -8,7 +8,6 @@
     <br><br>
     Working on... <br>
 🍔 Dev @ <a href="https://www.freebites.org/">Freebites</a>: Fighting Food Waste on College Campuses <br>
-    🤖 Senior Capstone <br>
     🕶️ Personal Projects
   </samp>
 </p>
